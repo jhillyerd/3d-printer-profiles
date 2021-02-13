@@ -1,9 +1,10 @@
 # 3d-printer-profiles
+
 My 3D printer profiles
 
-The PrusaSlicer directory contains a snapshot export of my current profiles.
-The PrusaSlicer version is stored in the [snapshot.ini](https://github.com/jhillyerd/3d-printer-profiles/blob/master/PrusaSlicer/snapshot.ini) header.
+The PrusaSlicer directory contains a config bundle of my current profiles.
+The PrusaSlicer version noted in the comment at the top of the bundle file.
 
 I currently use a Creality Ender 3 Pro upgraded with a BIGTREETECH SKR Mini E3
-V1.2 mainboard, and a Whambam flexsteel PEX printing surface.  The PEX causes me to use higher
-bed temperatures.
+V1.2 mainboard, Micro Swiss Direct Drive extruder, and a BLTouch bed leveling
+sensor.
