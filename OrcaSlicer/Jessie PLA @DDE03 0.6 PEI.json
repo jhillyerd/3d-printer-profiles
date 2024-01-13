@@ -82,7 +82,7 @@
         "; filament end gcode \n"
     ],
     "filament_flow_ratio": [
-        "0.96"
+        "0.97"
     ],
     "filament_is_support": [
         "0"
@@ -188,7 +188,7 @@
     ],
     "from": "",
     "full_fan_speed_layer": [
-        "0"
+        "3"
     ],
     "hot_plate_temp": [
         "60"
@@ -202,7 +202,7 @@
         "230"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "235"
     ],
     "nozzle_temperature_range_high": [
         "235"
@@ -232,7 +232,7 @@
         "5"
     ],
     "slow_down_min_speed": [
-        "25"
+        "15"
     ],
     "support_material_interface_fan_speed": [
         "-1"
