@@ -36,7 +36,7 @@
     "host_type": "octoprint",
     "inherits": "MyMarlin 0.4 nozzle",
     "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]",
-    "machine_end_gcode": "G91                   ; Relative positioning\nG1 E-2 F2700          ; Retract a bit\nG1 E-2 Z0.2 F2400     ; Retract more and raise Z\nG1 X5 Y5 F3000        ; Wipe out\n\n; Absolute positioning, move print head up\nG90\nG1{if max_layer_z < max_print_height} Z{z_offset+min(max_layer_z+30, max_print_height)}{endif} F720\n\nG1 X0 Y225     ; Present print\nM106 S0        ; Turn-off fan\nM104 S0        ; Turn-off hotend\nM140 S0        ; Turn-off bed\nM84 X Y E      ; Disable all steppers but Z",
+    "machine_end_gcode": "G91                   ; Relative positioning\nG1 E-2 F2700          ; Retract a bit\nG1 E-2 Z0.2 F2400     ; Retract more and raise Z\nG1 X5 Y5 F3000        ; Wipe out\n\n; Absolute positioning, move print head up\nG90\nG1{if max_layer_z < max_print_height} Z{z_offset+min(max_layer_z+30, max_print_height)}{endif} F720\n\nG1 X0 Y210     ; Present print\nM106 S0        ; Turn-off fan\nM104 S0        ; Turn-off hotend\nM140 S0        ; Turn-off bed\nM84 X Y E      ; Disable all steppers but Z",
     "machine_load_filament_time": "0",
     "machine_max_acceleration_e": [
         "5000"
@@ -111,10 +111,10 @@
     "print_host": "octopi.home.arpa",
     "print_host_webui": "",
     "printable_area": [
-        "-4x-4",
-        "226x-4",
-        "226x226",
-        "-4x226"
+        "4x4",
+        "210x4",
+        "210x210",
+        "4x210"
     ],
     "printable_height": "220",
     "printer_model": "Generic Marlin Printer",
