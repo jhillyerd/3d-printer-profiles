@@ -199,10 +199,10 @@
     "inherits": "My Generic PLA",
     "name": "Jessie PLA @DDE03 0.6 PEI",
     "nozzle_temperature": [
-        "230"
+        "225"
     ],
     "nozzle_temperature_initial_layer": [
-        "235"
+        "225"
     ],
     "nozzle_temperature_range_high": [
         "235"
