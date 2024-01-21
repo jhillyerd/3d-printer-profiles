@@ -29,7 +29,7 @@
     ],
     "fan_kickstart": "0",
     "fan_speedup_overhangs": "1",
-    "fan_speedup_time": "0",
+    "fan_speedup_time": "0.5",
     "from": "",
     "gcode_flavor": "marlin2",
     "high_current_on_filament_swap": "0",
