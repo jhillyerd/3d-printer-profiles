@@ -55,7 +55,7 @@
     "independent_support_layer_height": "1",
     "infill_anchor": "400%",
     "infill_anchor_max": "20",
-    "infill_combination": "1",
+    "infill_combination": "0",
     "infill_direction": "45",
     "infill_jerk": "9",
     "infill_wall_overlap": "25%",
