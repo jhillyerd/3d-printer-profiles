@@ -1,0 +1,64 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_cooling_layer_time": [
+        "20"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "15"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_retraction_length": [
+        "0.6"
+    ],
+    "filament_retraction_speed": [
+        "60"
+    ],
+    "filament_settings_id": [
+        "Generic PETG @DDE3 PEX"
+    ],
+    "filament_wipe": [
+        "1"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "5"
+    ],
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Generic PETG @DDE3 PEX",
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "overhang_fan_speed": [
+        "75"
+    ],
+    "pressure_advance": [
+        "0.075"
+    ],
+    "slow_down_layer_time": [
+        "15"
+    ],
+    "slow_down_min_speed": [
+        "15"
+    ],
+    "version": "1.8.0.0"
+}

@@ -1,0 +1,12 @@
+{
+    "bottom_surface_pattern": "monotonicline",
+    "from": "User",
+    "inherits": "0.16mm Optimal @Qidi XSmart3",
+    "is_custom_defined": "0",
+    "name": "0.16mm Optimal @XS3 0.4",
+    "print_settings_id": "0.16mm Optimal @XS3 0.4",
+    "skirt_loops": "0",
+    "sparse_infill_pattern": "gyroid",
+    "top_surface_pattern": "monotonicline",
+    "version": "1.8.0.0"
+}
