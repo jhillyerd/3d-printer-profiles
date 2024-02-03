@@ -1,0 +1,19 @@
+{
+    "filament_max_volumetric_speed": [
+        "13"
+    ],
+    "filament_settings_id": [
+        "Hatchbox PLA @XS3"
+    ],
+    "from": "User",
+    "inherits": "Qidi Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Hatchbox PLA @XS3",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "version": "1.8.0.0"
+}
