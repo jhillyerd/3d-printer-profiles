@@ -1,5 +1,6 @@
 {
     "bottom_surface_pattern": "monotonicline",
+    "brim_object_gap": "0",
     "from": "User",
     "inherits": "0.20mm Standard @Qidi XSmart3",
     "is_custom_defined": "0",
