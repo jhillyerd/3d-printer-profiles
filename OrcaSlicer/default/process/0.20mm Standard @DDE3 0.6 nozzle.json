@@ -1,7 +1,7 @@
 {
-    "bottom_surface_pattern": "monotonicline",
     "bridge_speed": "30",
-    "elefant_foot_compensation": "0.2",
+    "default_acceleration": "2000",
+    "elefant_foot_compensation": "0.1",
     "from": "User",
     "gap_infill_speed": "30",
     "inherits": "0.20mm Standard @MyMarlin",
@@ -35,6 +35,7 @@
     "top_surface_line_width": "0.5",
     "top_surface_pattern": "monotonicline",
     "top_surface_speed": "60",
+    "travel_acceleration": "3000",
     "version": "1.8.0.0",
     "wall_loops": "2"
 }
