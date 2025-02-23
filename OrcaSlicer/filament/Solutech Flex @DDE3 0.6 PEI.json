@@ -1,0 +1,25 @@
+{
+    "filament_retraction_length": [
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Solutech Flex @DDE3 0.6 PEI"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "30"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "My Generic TPU",
+    "is_custom_defined": "0",
+    "name": "Solutech Flex @DDE3 0.6 PEI",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "version": "2.1.1.0"
+}
