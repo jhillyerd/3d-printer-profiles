@@ -1,0 +1,25 @@
+{
+    "activate_air_filtration": [
+        "0"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "0"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "fan_min_speed": [
+        "5"
+    ],
+    "filament_settings_id": [
+        "QIDI ABS Rapido @XS3 0.4"
+    ],
+    "from": "User",
+    "inherits": "QIDI ABS Rapido",
+    "is_custom_defined": "0",
+    "name": "QIDI ABS Rapido @XS3 0.4",
+    "reduce_fan_stop_start_freq": [
+        "0"
+    ],
+    "version": "2.2.0.4"
+}
